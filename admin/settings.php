@@ -73,7 +73,6 @@ function fm_notification_bar_init() {
                                      
                 </tbody>
             </table>
-            <p>&nbsp;</p>
             <p><input type="submit" name="Submit" class="button-primary" value="<?php _e("Save Changes", fm_notification_bar); ?>"></p>
         </form>                    
     </div>
